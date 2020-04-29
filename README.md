@@ -1,1 +1,1 @@
-# lambda-got-poc
+# lambda-git-poc
